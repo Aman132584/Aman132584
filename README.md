@@ -61,7 +61,7 @@ I'm **Aman Ahsan**, an AI/ML Engineer from **Lahore, Pakistan 🇵🇰**, studyi
 ║  Transformers    ║  LangChain       ║  TensorFlow      ║  Python          ║
 ║  HuggingFace     ║  AutoGen         ║  PyTorch         ║  FastAPI         ║
 ║  OpenAI API      ║  RAG Systems     ║  Scikit-Learn    ║  Pandas · NumPy  ║
-║  spaCy · NLTK    ║  FAISS · Chroma  ║  CNN · ANN       ║  Jupyter · Git   ║
+║  spaCy · NLTK    ║  FAISS · Chroma  ║  CNN · ANN       ║  COLAB  . Git    ║
 ╚══════════════════╩══════════════════╩══════════════════╩══════════════════╝
 ```
 
